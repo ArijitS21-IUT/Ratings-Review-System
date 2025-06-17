@@ -1,4 +1,4 @@
-```markdown
+<!-- ```markdown -->
 # ⭐ Ratings and Review System
 
 A full-stack web application that allows users to submit ratings and reviews for a fixed list of products. Built with React, Node.js/Express, and MySQL.
@@ -36,7 +36,7 @@ git clone https://github.com/your-username/ratings-review-system.git
 cd ratings-review-system
 ````
 
----
+<!-- --- -->
 
 ### 🔧 2. Setup the Backend
 
