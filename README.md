@@ -1,7 +1,3 @@
-Here is the complete and updated **`README.md`** file for your **Ratings and Review System** project, written in a clean and professional format:
-
----
-
 ```markdown
 # ⭐ Ratings and Review System
 
@@ -29,36 +25,6 @@ A full-stack web application that allows users to submit ratings and reviews for
 | Database     | MySQL                |
 | Hosting (Optional) | Render (backend), Vercel (frontend) |
 
----
-
-## 🗃️ Folder Structure
-
-```
-
-ratings-review-system/
-│
-├── backend/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── middleware/
-│   ├── .env
-│   └── server.js
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── App.js
-│   │   └── index.js
-│   ├── .env
-│
-├── sql/
-│   └── schema.sql
-├── .gitignore
-└── README.md
-
-````
 
 ---
 
